@@ -1,7 +1,7 @@
-import Sms from '../images/Sms.png';
-import Blue from '../images/Blueeasy.png';
-import Bleux from '../images/Bleux.png';
-import Cripto from '../images/cripto.png';
+import Sms from '../../public/images/Sms.png';
+import Blue from '../../public/images/Blueeasy.png';
+import Bleux from '../../public/images/Bleux.png';
+import Cripto from '../../public/images/cripto.png';
 
 export const data = [
     {
