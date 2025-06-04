@@ -3,7 +3,7 @@ import { Button } from '../Button/Button';
 
 export const Body = () => {
     const handleDownload = () => {
-        const pdfUrl = './mauricioCelis.pdf'; 
+        const pdfUrl = './mauricio_celis_es.pdf'; 
         const downloadLink = document.createElement('a');
         downloadLink.href = pdfUrl;
         downloadLink.download = 'cv.pdf';
