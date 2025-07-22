@@ -17,7 +17,7 @@ export const Footer = () => {
             <div id='top' className='flex flex-row justify-around'>
                 <div>
                     <h4 className='text-start'>Mauricio Celis</h4> <br />
-                    <p>A Frontend focused Web Developer building the Frontend of Websites <br /> and Web Applications that leads to the success of the overall product</p>
+                    <p>A Full Stack Developer building the Frontend of Websites <br /> and Web Applications that leads to the success of the overall product</p>
                 </div>
                 <div className='flex flex-col'>
                     <div>

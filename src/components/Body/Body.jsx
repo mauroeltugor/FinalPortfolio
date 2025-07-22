@@ -15,7 +15,7 @@ export const Body = () => {
     return (
         <div id='body' className='bg-gray-200 h-screen flex flex-col text-center items-center pt-60 gap-10'>
             <h1 className='text-6xl font-black'>HEY, I'M MAURO CELIS</h1>
-            <p className='text-2xl'>A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product</p>
+            <p className='text-2xl'>A Full Stack Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product</p>
             <Button onClick={handleDownload} value="Download CV"/>
         </div>
     );

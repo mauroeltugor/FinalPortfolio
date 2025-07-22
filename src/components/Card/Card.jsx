@@ -1,5 +1,5 @@
 import React from 'react';
-
+//las cartas son el diseño para el about me.
 export const Card = ({ value }) => {
     return (
         <div style={{ backgroundColor: 'rgba(153, 153, 153, 0.5)' }} className='w-full h-full flex justify-center items-center rounded-sm'>

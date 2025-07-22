@@ -29,7 +29,7 @@ export const Contact = () => {
           placeholder='Write your message'
         />
 
-        <Button value='Send' />
+        <Button value='Send' onClick="" />
       </form>
     </div>
   );

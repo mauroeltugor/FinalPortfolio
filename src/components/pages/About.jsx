@@ -37,11 +37,11 @@ export const About = () => {
             <Card value="React" />
             <Card value="Javascript" />
             <Card value="TypeScript" />
-            <Card value="Html" />
-            <Card value="Css" />
-            <Card value="MongoDB" />
+            <Card value="Workfront fusion" />
             <Card value="MySql" />
-            <Card value="SQLServer" />
+            <Card value="Jira" />
+            <Card value="Canvas" />
+            <Card value="Power-BI" />
           </div>
         </div>
       </div>
